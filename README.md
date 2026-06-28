@@ -14,7 +14,7 @@
 - 🌱 Constantly exploring **new technologies and best practices** in web development
 - 💡 Passionate about building **clean, scalable, and performant** applications
 - 🤝 Open to **collaborations** on interesting and impactful projects
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **shaikhazam9696@gmail.com**
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed of it!
 
 ---
